@@ -1,0 +1,8 @@
+------------------------Input------------------------
+Set Size: 5
+Knapsack Size: 11
+Weight Set: { 1, 2, 5, 6, 7 }
+Value Set: { 1, 6, 18, 22, 28 }
+-----------------------Solution----------------------
+Optimal Value Set: { 22, 18 }
+Max Value: 40

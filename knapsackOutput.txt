@@ -1,0 +1,8 @@
+------------------------Input------------------------
+Set Size: 4
+Knapsack Size: 5
+Weight Set: { 2, 1, 3, 2 }
+Value Set: { 12, 10, 20, 15 }
+-----------------------Solution----------------------
+Optimal Value Set: { 15, 10, 12 }
+Max Value: 37

@@ -1,0 +1,6 @@
+c Noah Tyler
+c knapsack test
+4 5
+2  1  3  2
+12 10 20 15
+
